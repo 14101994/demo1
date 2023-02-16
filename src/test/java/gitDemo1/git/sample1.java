@@ -6,6 +6,8 @@ public class sample1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello");
+		
+		System.out.println("updated for fisrt time for git demo");
 
 	}
 
