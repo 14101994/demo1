@@ -8,6 +8,16 @@ public class sample1 {
 		System.out.println("hello");
 		
 		System.out.println("updated for fisrt time for git demo");
+		
+
+		System.out.println("hello");
+		
+		System.out.println("updated for fisrt time for git demo");
+		
+
+		System.out.println("hello");
+		
+		System.out.println("updated for fisrt time for git demo");
 
 	}
 
